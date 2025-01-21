@@ -1,0 +1,6 @@
+tf_backend/app/__pycache__
+tf_backend/app/routes/__pycache__
+tf_backend/app/services/__pycache__
+tf_backend/.env
+tf_backend/uploads
+tf_frontend/react-dropbox-clone/.env
